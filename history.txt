@@ -1,0 +1,367 @@
+    1  git -v
+    2  git -v
+    3  clear
+    4  git config --global user.name "Mihaela Talmazan"
+    5  git config --global user.name 
+    6  clear
+    7  git config --global user.email talmazanmihaela@gmail.com
+    8  git config --global user.email
+    9  git config --global user.name
+   10  clear
+   11  git config --global user.email "talmazanmihaela@gmail.com
+   12  clear
+   13  git config --global user.name 
+   14  git config --global user.email
+   15  clear
+   16  For some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+   17  For some reason I'm getting the error that "More than one value for the key user.name" when I try to set the user.name for my git account. How can I set it to a single name?
+   18  git config --global user.name
+   19  git config --global user.email
+   20  clear
+   21  mkdir animals
+   22  ls
+   23  ssh=keygen
+   24  ssh-keygen
+   25  ssh keygen
+   26  ssh-keygen
+   27  ssh-keygen
+   28  git config --global user.name "Mihaela"
+   29  git config --global user.name "user1998m"
+   30  git config --global user.email "talmazanmihaela@gmail.com"
+   31  git config -list
+   32  git config --list --global
+   33  git config --list --show-origin
+   34  git configggg
+   35  git config --global user.name "user1998m"
+   36  git config --global user.email "talmazanmihaela@gmail.com"
+   37  cat /home/mihaela/.gitconfig
+   38  git init
+   39  git config --list --show-origin
+   40  cat .gitconfig
+   41  ls -a .git 
+   42  git config --list --global
+   43  git clone https://github.com/user1998m/m589.git
+   44  pwd
+   45  cd m589/
+   46  ls
+   47  touch file1
+   48  git add file1
+   49  ls
+   50  cd .589/
+   51  cd m.589/
+   52  cd m589/
+   53  cd m589/
+   54  pwd
+   55  touch file 2
+   56  touch file2
+   57  git add file2
+   58  pwd
+   59   git clone https://github.com/user1998m/m589.git^C
+   60  PWD
+   61  git commit -m "adding files"
+   62  git branch -M main
+   63  git remote add origin [200~
+   64  git remote add origin github.com:user1998m/m589.git
+   65  git push -u origin main 
+   66  pwd
+   67  pwd
+   68  git config --global.user.name "mihaelatm"
+   69  git config --global user.name "mihaelatm"
+   70  git config --global user.email. "talmazanmihaela@gmail.com"
+   71  git config --global user.name "mihaelatm"
+   72  git config --user.email "talmazanmihaela@gmail.com
+   73  git config --global user.name "mihaelatm"
+   74  git config --global user.email "talmazanmihaela@gmail.com"
+   75  git show user.name
+   76  git show --global user.name
+   77  git config --list 
+   78  git config --list --show-origin
+   79  git config --global user.name "mihaelatm"
+   80  git config --global user.email "talmazanmihaela@gmail.com
+   81  [200~git config --global user.email "talmazanmihaela@gmail.com
+   82  git config --global user.name "mihaelatm"
+   83  git config --global user.email "talmazanmihaela@gmail.com"
+   84  cat /home/mihaela/.gitconfig
+   85  git show user.name
+   86  git show --global user.name
+   87  git config -list
+   88  git config --list --global
+   89  git config --global user.name "mihaelatm"
+   90  git config --global user.email "talmazanmihaela@gmail.com
+   91  git config --global user.name "mihaelatm"
+   92   git config --global user.email "talmazanmihaela@gmail.com"
+   93  git init
+   94  git config --list --show-origin
+   95  ls -a .git
+   96  git config --list --show-origin
+   97  git config --list --global
+   98  git clone https://github.com/mihaelatm/mihaela_ich.git
+   99  pwd
+  100  ls -la
+  101  clear
+  102  pwd
+  103  cd mihaela_ich/
+  104  ls
+  105  touch file1
+  106  git add file1
+  107  ls
+  108  cd /c/Users/talma
+  109  ls
+  110  cd mihaela_ich/
+  111  touch file2
+  112  git add file2
+  113  git clone https://github.com/mihaelatm/mihaela_ich.git^C
+  114  git clone https://github.com/mihaelatm/mihaela_ich.git^C
+  115  git clone https://github.com/mihaelatm/mihaela_ich.git^c
+  116  git commit -m "adding files"
+  117  git push main
+  118  git branch -M main
+  119  geit remote add origin github.com:mihaelatm/mihaela_ich.git
+  120  git remote add origin github.com:mihaelatm/mihaela_ich.git
+  121  git push -u origin main 
+  122  git push -u origin main
+  123  git remote set-url origin github.com:mihaelatm/mihaela_ich.git
+  124  git push -u origin main
+  125  ssh -T -i c/Users/talma/itch git@github.com
+  126  git remote set-url origin git@github.com:mihaelatm/mihaela_ich.git
+  127  git push -u origin main
+  128  ls
+  129  pwd
+  130  mkdir first _repo
+  131  clear
+  132  ls
+  133  pwd
+  134  mkdir firt_repo
+  135  cd firt_repo/
+  136  git init
+  137  pwd
+  138  ls
+  139  pwd
+  140  cd /c/Users
+  141  pwd
+  142  cd
+  143  cd firt_repo/
+  144  cd first/repo
+  145  ls
+  146  ls -la
+  147  pwd
+  148  clear
+  149  ls
+  150  ls
+  151  pwd
+  152  mkdir first_repo
+  153  cd first_repo/
+  154  pwd
+  155  git init
+  156  git config --list --global
+  157  echo "#test" >> README.md
+  158  git status
+  159  git add README.md
+  160  git commit -m "first commit" 
+  161  git branch -m main 
+  162  eval `ssh-agent -s`
+  163  ssh-add C:/Users/talma/itch
+  164  ssh-add C:/Users/talma/.ssh/id_rsa
+  165  git remote add origin git@github:mihaelatm/first_repo.git
+  166  git push -u origin main
+  167  git remote add origin git@github.com:mihaelatm/first_repo.git
+  168  git remote add origin git@github.com:mihaelatm/mihaela_ich.git
+  169  git push -u origin main
+  170  ssh-add C:/Users/talma/.ssh/id_rsa
+  171  git remote -v
+  172  git remote remove origin
+  173  git remote -v 
+  174  git remote add origin git@github.com:mihaelatm/first_repo.git
+  175  git push -u origin main
+  176  git remote -v
+  177  git remote -v
+  178  git remote remove origin
+  179  git remote -v
+  180  git remote add origin git@github.com:mihaelatm/first_repo.git
+  181  git remote -v
+  182  ssh -T git@github.com
+  183  ssh -T git@github.com
+  184  git push -u origin main
+  185  git log
+  186  clear
+  187  git config --global user. name "mihaelatm"
+  188  clear
+  189  git config --global user.name "mihaelatm"
+  190  git config --global user.email "talmazanmihaela@gmail.com"
+  191  git config --list --show origin 
+  192  git config -- list --global
+  193  git config --list --global
+  194  git clone https://github.com/mihaelatm/mihaela_ich.git
+  195  git init
+  196  mkdir ~/git-branch
+  197  git init ~/git-branch
+  198  cd [200~~/git-branch
+  199  cd ~/git-branch
+  200  git remote add origin https://github.com/mihaelatm/git-branch.git
+  201  git checkout -b gitignore
+  202  curl -O https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  203  ls
+  204  ls -ls
+  205  ls -la
+  206  git add .gitignore
+  207  git commit -m "ADD FILE .gitignore"
+  208  git push -u origin gitignore
+  209  mkdir ~/git_intro
+  210  cd ~/git_intro
+  211  git init 
+  212  git add photo.jpg
+  213  git add photo_jpg
+  214  clear
+  215  mkdir ~/git_intro
+  216  clear
+  217   mkdir ~/git_intro
+  218  cd ~/git_intro
+  219  git init
+  220  git add image.jpg
+  221  mkdir ~/git_intro
+  222  clear
+  223  mkdir ~/git_intro
+  224  git init ~/git_intro
+  225  cd ~/git_intro
+  226  clear
+  227  mkdir ~/git_intro
+  228  cd ~/git_intro
+  229  git init
+  230  clear
+  231  mkdir ~/git_intro
+  232  git init ~/git_intro
+  233  cd ~/git_intro
+  234  curl -o photo.jpg https://app.leonardo.ai/
+  235  git add photo.jpg
+  236  git status
+  237  git commit -m "Added photo"
+  238  git branch -M main
+  239  git remote add origin git@github.com:mihaelatm/git_intro.git
+  240  git push -u origin main
+  241  git -push -u origin main
+  242  mkdir ~/git_intro
+  243  cd ~/git_intro
+  244  gir init
+  245  git init
+  246  curl -o https://unsplash.com/de/fotos/die-sonne-geht-uber-dem-wasser-am-strand-unter-nWzaANoZ0wE
+  247  curl -o photo.jpg https://unsplash.com/de/fotos/die-sonne-geht-uber-dem-wasser-am-strand-unter-nWzaANoZ0wE
+  248  curl -o photo.png https://unsplash.com/de/fotos/die-sonne-geht-uber-dem-wasser-am-strand-unter-nWzaANoZ0wE
+  249  curl -o https://www.pinterest.de/pin/8022105580791443/
+  250  curl -o photo.jpg https://www.pinterest.de/pin/8022105580791443/
+  251  git add photo.jpg
+  252  git status
+  253  git commit -m "Added photo"
+  254  git branch -M main
+  255  git remote add origin git@github.com:mihaelatm/git_intro.git
+  256  git push -u origin main
+  257  ssh -T git@github.com
+  258  git push -u origin main
+  259  git push -u origin main
+  260  code .
+  261  ls
+  262  ls
+  263  git log
+  264  git status
+  265  git add .
+  266  git branch 
+  267  code .
+  268  git log
+  269  git code .
+  270  pwd
+  271  pwd
+  272  cd C:\Users\talma\OneDrive\Desktop\Project_4
+  273  cd C:\Users\talma\OneDrive\Desktop\Project_4/
+  274  cd C:\Users\talma\OneDrive\Desktop\
+  275  mkdir git-branch
+  276  cd git-branch
+  277  mkdir ~/git-branch
+  278   mkdir ~/git-branch
+  279  rm /git-branch
+  280  mkdir ~/git-branch
+  281  rm ~/git=branch
+  282  mkdir ~/git-branch
+  283  pwd
+  284  cd /c/Users/talma
+  285  pwd
+  286  ls
+  287  cd git-branch
+  288  rm git-branch
+  289  rm /c/Users/talma/git-branch
+  290  rm /git-branch
+  291  help
+  292  pwd
+  293  cd /c/Users/talma
+  294  rm -rf git-branch
+  295  pwd
+  296  ls
+  297  mkdir ~/git-branch
+  298  cd ~/git-branch
+  299  git init
+  300  git remote add origin https://github.com/mihaelatm/git-branch.git
+  301  git checkout -b gitignore
+  302  curl -o https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  303  pwd
+  304  cd /c/Users/talma
+  305  rm -rf git-branch
+  306  ls
+  307  clear
+  308  mkdir ~/git-branch
+  309  cd ~/git-branch
+  310  git init
+  311  git remote add origin https://github.com/mihaelatm/git-branch.git
+  312  git checkout -b gitignore
+  313  curl -o https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  314  ls
+  315  ls -ls
+  316  ls -la
+  317  pwd
+  318  cd /c/Users/talma
+  319  rm -rf git-branch
+  320  clear
+  321  mkdir ~/git-branch
+  322  cd ~/git-branch
+  323  git init
+  324  git remote add origin https://github.com/mihaelatm/git-branch.git
+  325  git checkout -b gitignore
+  326  curl -o https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  327  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  328  ls -ls
+  329  ls -ls
+  330  ls -la
+  331  git add .gitignore
+  332  git commit -m "ADD FILE .gitignore"
+  333  git push -u origin gitignore
+  334  cd ~
+  335  git init
+  336  rm -rf .git
+  337  cd ~
+  338  git clone https://github.com/mihaelatm/repo12.git
+  339  cd repo
+  340  cd repo12/
+  341  git status
+  342  git log
+  343  cd ..
+  344  cd repo
+  345  cd repo12/
+  346  git checkout -b feature 
+  347  ls
+  348  git status
+  349  echo "Project 12" > README.md
+  350  ls
+  351  echo "*.exe" > ,gitignore
+  352  ls -la
+  353  git add README.md 
+  354  git add .gitignore
+  355  git status
+  356  git commit -m "add files"
+  357  git push -u origin feature
+  358  gitcommid --amend -m
+  359  git commit --amend -m
+  360  git commit --amend 
+  361  cat README.md
+  362  ls
+  363  git push --force origin feature
+  364  git checkout main
+  365  git merge feature
+  366  git push -u origin main
+  367  history > history.txt
